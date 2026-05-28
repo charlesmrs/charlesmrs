@@ -69,7 +69,7 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 
 | Curso | Instituição | Período |
 |---|---|---|
-| 🤖 Machine Learning & Visão Computacional | SCTEC — Santa Catarina | 2025 |
+| 🤖 Machine Learning & Visão Computacional | SCTEC — Santa Catarina | 2026 |
 | 🎓 MBA em Gestão de Projetos | Universidade La Salle | 2023–2024 |
 | ⚙️ Engenharia de Produção | Universidade La Salle | 2017–2023 |
 | 🔌 Técnico em Eletrônica | ULBRA | 2009–2011 |
@@ -83,7 +83,7 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 2013 ──► Técnico de Manutenção Eletrônica — PLC, CNC, Robôs Industriais
 2018 ──► Especialista em Gestão de Mudanças — SAP, Windchill, ECR/ECO
 2022 ──► Engineering Specialist — CAPEX, Facilities, TPM, ESG
-2025 ──► Machine Learning & Computer Vision (em andamento)
+2026 ──► Machine Learning & Computer Vision (em andamento)
 ```
 
 ---
