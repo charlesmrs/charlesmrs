@@ -18,7 +18,10 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 
 - 🔧 **Especialidade:** PLC Allen-Bradley · HMI · Redes Profibus/Profinet/Ethernet/IP
 - 📊 **Gestão:** CAPEX · Facilities · Contratos de SLA · TPM
-- 🤖 **Aprendendo agora:** Machine Learning & Visão Computacional — SCTEC/SC
+- 🤖 **Aprendendo agora:**
+-      Machine Learning & Visão Computacional — SCTEC/SC
+-      Especialista em Inteligência Artificial — ALURA/SANTANDER ACADEMY
+- 
 - 🎯 **Objetivo:** Aplicar IA em ambientes industriais reais — detecção de falhas, manutenção preditiva inteligente e automação com visão computacional
 
 > *"Na indústria chamamos de ruído quando um sensor envia dados corrompidos. No ML chamam de Garbage In, Garbage Out. Mesmo problema. Mesma consequência."*
