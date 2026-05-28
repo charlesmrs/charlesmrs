@@ -2,11 +2,12 @@
 
 # Olá, sou Charles Moraes Rodrigues 👋
 
-### Engenheiro de Produção Industrial → Machine Learning & IA Industrial
+### Engenheiro de Automação Industrial → Machine Learning & IA Industrial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charles-moraes-rodrigues-06250967)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlesmrs@gmail.com)
 [![Localização](https://img.shields.io/badge/Canoas%2C%20RS%20%7C%20Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Visitas](https://komarev.com/ghpvc/?username=charlesmrs&label=Visitas+ao+perfil&color=0A66C2&style=for-the-badge)](#)
 
 </div>
 
@@ -18,12 +19,28 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 
 - 🔧 **Especialidade:** PLC Allen-Bradley · HMI · Redes Profibus/Profinet/Ethernet/IP
 - 📊 **Gestão:** CAPEX · Facilities · Contratos de SLA · TPM
-- 🤖 **Aprendendo agora:**
--      Machine Learning & Visão Computacional — SCTEC/SC
--      Especialista em Inteligência Artificial — ALURA/SANTANDER ACADEMY
+- 🤖 **Aprendendo agora:** Machine Learning & Visão Computacional — SCTEC/SC
+- 🎓 **Também estudando:** Especialista em Inteligência Artificial — Alura + Santander Academy
 - 🎯 **Objetivo:** Aplicar IA em ambientes industriais reais — detecção de falhas, manutenção preditiva inteligente e automação com visão computacional
 
 > *"Na indústria chamamos de ruído quando um sensor envia dados corrompidos. No ML chamam de Garbage In, Garbage Out. Mesmo problema. Mesma consequência."*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=charlesmrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesmrs&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlesmrs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -42,6 +59,7 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-8B5CF6?style=flat-square&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
 **Gestão & Sistemas**
 
@@ -67,11 +85,22 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 
 ---
 
+### 🔜 Próximos projetos
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| 🔍 Anomaly Detection Industrial | Modelo ML para detecção de falhas com dados de vibração/termografia | Em desenvolvimento |
+| 👁️ Visual Inspection CV | Inspeção automática de peças com visão computacional | Planejado |
+| 📊 Predictive Maintenance Dashboard | Dashboard com alertas preditivos integrado a dados de sensores | Planejado |
+
+---
+
 ## 📚 Formação
 
 | Curso | Instituição | Período |
 |---|---|---|
 | 🤖 Machine Learning & Visão Computacional | SCTEC — Santa Catarina | 2026 |
+| 🧠 Especialista em Inteligência Artificial | Alura + Santander Academy | 2026 |
 | 🎓 MBA em Gestão de Projetos | Universidade La Salle | 2023–2024 |
 | ⚙️ Engenharia de Produção | Universidade La Salle | 2017–2023 |
 | 🔌 Técnico em Eletrônica | ULBRA | 2009–2011 |
