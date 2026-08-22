@@ -38,7 +38,7 @@ Sou Engenheiro de Produção com **19 anos na John Deere**, especializado em aut
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlesmrs&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 </div>
 
